@@ -8,6 +8,5 @@ Theme for vim-airline: https://github.com/bling/vim-airline
 
 Bundle 'cameronr/airline-murmur-muted'
 
-let g:airline_theme
+let g:airline_theme='murmur_muted'
 ```
-
